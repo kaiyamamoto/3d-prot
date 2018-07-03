@@ -1,0 +1,4 @@
+[submodule "NegiUnity"]
+	path = NegiUnity
+	url = https://github.com/kaiyamamoto/NegiUnity.git
+	branch = master
