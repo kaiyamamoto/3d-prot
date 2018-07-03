@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03e91da4ce3bd14db37593f1defde27, type: 3}
+  m_Name: AnimatorScriptableStates
+  m_EditorClassIdentifier: 
+  _controller: {fileID: 9100000, guid: e813be58ce46f9448b1b7c71d3ebac5c, type: 2}
+  animState:
+    _list:
+    - Key: Idle_01
+      Value:
+        clip: {fileID: 7400000, guid: 994cbae5c41614445948b83bf485ee48, type: 2}
+        fadeTime: 0.5
+    - Key: Idle_02
+      Value:
+        clip: {fileID: 7400000, guid: 2857ca134f5ef5848a0f42faa0e9e983, type: 2}
+        fadeTime: 0.5
