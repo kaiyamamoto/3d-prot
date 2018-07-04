@@ -18,7 +18,15 @@ MonoBehaviour:
       Value:
         clip: {fileID: 7400000, guid: 994cbae5c41614445948b83bf485ee48, type: 2}
         fadeTime: 0.5
-    - Key: Idle_02
+    - Key: Jump
       Value:
-        clip: {fileID: 7400000, guid: 2857ca134f5ef5848a0f42faa0e9e983, type: 2}
+        clip: {fileID: 7400000, guid: 01815345e6a10b244a4efababb5d6efa, type: 2}
+        fadeTime: 0.2
+    - Key: Landing
+      Value:
+        clip: {fileID: 7400000, guid: 8fbdcffe263e0db4fbb56541ad171a25, type: 2}
+        fadeTime: 0.1
+    - Key: Falling
+      Value:
+        clip: {fileID: 7400000, guid: b572e2c3a671ec94597bf74512446062, type: 2}
         fadeTime: 0.5
